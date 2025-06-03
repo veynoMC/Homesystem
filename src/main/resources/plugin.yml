@@ -1,0 +1,34 @@
+name: Homesystem
+version: '1.0-SNAPSHOT'
+main: eu.veyno.homesystem.Homesystem
+api-version: '1.21'
+commands:
+  home:
+    usage: /home
+    description: Zeigt dir dein Zuhause an.
+    permission: homesystem.use
+  homes:
+    usage: /homes
+    description: Zeigt alle gespeicherten Zuhause an.
+    permission: homesystem.use
+  sethome:
+    usage: /sethome <name>
+    description: Speichert deine Position als neues Home.
+    permission: homesystem.use
+  delhome:
+    usage:
+    description:
+    permission: homesystem.use
+  warp:
+    usage:
+    description:
+    permission: homesystem.use
+  warps:
+    usage:
+    description:
+    permission: homesystem.use
+
+permissions:
+  homesystem.use:
+    default: true
+  

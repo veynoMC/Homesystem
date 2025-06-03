@@ -1,0 +1,73 @@
+nextpagearrow:
+  title: "§r§l§2Nächste Seite"
+  lore:
+  - " "
+  - "§7§oLinksclick zum Interagieren"
+
+previouspagearrow:
+  title: "§r§l§2Vorherige Seite"
+  lore:
+  - " "
+  - "§7§oLinksclick zum Interagieren"
+
+deleteconfirm:
+  title: "§r§l§6Löschen bestätigen!"
+  lore:
+  - " "
+  - "§r§l§7Linksclick um das Home zu Löschen"
+
+deletecancel:
+  title: "§r§l§6Löschen abrechen!"
+  lore:
+  - " "
+  - "§r§l§7Linksclick um das Löschen abzubrechen"
+
+mainmenuicon:
+  title: "§r§l§2Zurück zur Übersicht"
+  lore:
+  - " "
+  - "§r§l§7§oKlicke, um zurück zur Homes Übersicht zu kommen"
+
+delhomeicon:
+  title: "§r§l§4Home löschen"
+  lore:
+  - " "
+  - "§r§l§7§oKlicke, um das Home zu löschen"
+
+editicon:
+  title: "§r§l§5Home bearbeiten"
+  lore:
+  - " "
+  - "§7§oKlicke, um den Namen des Homes zu ändern"
+
+addhomeicon:
+  title: "§r§l§2Home erstellen"
+  lore:
+  - " "
+  - "§7§oKlicke, um ein Home an deiner"
+  - "§7§oaktuellen Position zu erstellen"
+
+
+publicselectortrue:
+  title: "§r§l§2Home ist öffentlich"
+  lore:
+  - " "
+  - "§7§oKlicke, um das Home privat zu stellen"
+
+publicselectorfalse:
+  title: "§r§l§2Home ist privat"
+  lore:
+  - " "
+  - "§7§oKlicke, um das Home öffentlich zu stellen"
+
+
+
+
+
+
+
+
+
+
+
+
